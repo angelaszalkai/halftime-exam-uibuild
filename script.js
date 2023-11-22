@@ -1,5 +1,4 @@
 const rootElement = document.querySelector('#root');
-
 rootElement.insertAdjacentHTML('afterbegin', `
 <form>
 
